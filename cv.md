@@ -12,7 +12,7 @@ Active and bright person with proactive thinking and high self-discipline; Posse
 
 Skills
 ------
-HTML/CSS, Photoshop, Linux, Excel, Lingo, PowerPoint;
+HTML/CSS, Photoshop, Linux, Lingo, Excel, Word, PowerPoint;
 
 Code Example
 ------------
