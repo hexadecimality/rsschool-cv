@@ -1,1 +1,1 @@
-# rsschool-cv
+https://hexadecimality.github.io/rsschool-cv/cv
