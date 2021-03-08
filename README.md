@@ -1,2 +1,2 @@
-[https://hexadecimality.github.io/rsschool-cv/cv]/
-[https://hexadecimality.github.io/rsschool-cv/]
+[MD CV](https://hexadecimality.github.io/rsschool-cv/cv)
+[HTML CV](https://hexadecimality.github.io/rsschool-cv/)
